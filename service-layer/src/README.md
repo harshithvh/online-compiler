@@ -1,5 +1,5 @@
 
-# cs552-javacompilermicorservice
+# javacompilermicorservice
 
 Prereq:
 
